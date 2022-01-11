@@ -9,6 +9,14 @@ const NavBar = () => {
                 <nav className="navbar-links_logo">
                 <img src={logo} alt="Logo" />
                 </nav>
+                <nav className="navbar-start">
+                    <a href="#home">Home</a>
+                    <a href="#Services">Services</a>
+                </nav>
+                <nav className="navbar-end">
+                <a href="#Register">Register</a>
+
+                </nav>
             </nav>
         </nav>
     )
