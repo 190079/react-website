@@ -2,6 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    color: #f2f2f2;
 }
 
 .navbar-links {
@@ -31,14 +32,14 @@
     display: flex;
     flex: 1;
     justify-content: flex-end;
+    padding: 1rem;
+    align-items: center;
 }
 
 .navbar-links a{
     font-size: 20px;
     color: var(--color-text);
     cursor: pointer;
-    /* padding-right: 1rem; */
-    /* font-family: var(--font-family); */
     font-weight: 700;
     text-decoration: none;
     font-size: medium;
@@ -47,7 +48,8 @@
 }
 
 .navbar-links a:hover {
-    filter: contrast(0.6);
+    /* filter: contrast(0.6); */
     text-decoration: underline;
+    color: var(--color-primary);
     font-weight: 900;
 }

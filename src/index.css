@@ -6,13 +6,14 @@
   --gradient-text: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
   --gradient-bar: linear-gradient(103.22deg, #AE67FA -13.86%, #F49867 99.55%);
   
-  --color-bg: #f2f2f2;
+  --color-bg: #0b0c10;
   --color-footer : #c5c6c8;
-  --color-blog: #141f35;
-  --color-text: #2a3447;
+  --color-blog: #b7b8bb;
+  --color-text: #c5c6c8;
   --color-subtext: #fff;
-  --color-div-bg: #c5c6c8;
-  --color-primary: #00d748;
+  --color-div-bg: #202833;
   --color-visited: #41516d;
-  --color-orange: #ff914d;
+  --color-primary: #ff914d;
+  --color-button: #e5e6e7;
+  --color-brand: #66fcf1;
 }

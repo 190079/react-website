@@ -1,7 +1,7 @@
-import React from 'react';
 import "./seperator.css"
-const Seperator = () => {
-    const sep=<nav className="seperator"></nav>;
-    return sep;
+const Seperator = () =>{
+    const container = <nav className="seperator">|</nav>
+    return container;
 }
+
 export default Seperator;

@@ -1,5 +1,6 @@
 .seperator {
-    height: 100%;
-    width: 1px;
-    background-color: #ffffff;
+    height: 90%;
+    min-width: 2px;
+    color: var(--color-text);
+    background-color: var(--color-text);
 }
